@@ -48,7 +48,7 @@ constants.py  # Since this contains your OpenAI API key
 *.key
 
 # Distribution
-*.manifest
+*. nifest
 *.spec
 
 # Installer logs
